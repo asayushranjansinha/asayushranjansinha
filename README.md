@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asayushranjan" target="blank"><img src="https://img.shields.io/twitter/follow/asayushranjan?logo=twitter&style=for-the-badge" alt="asayushranjan" /></a> </p>
 
-- 🔭 I’m currently working on **Threds Clone**
+- 🔭 I’m currently working on **Threads Clone**
 
 - 🌱 I’m currently learning **Typescript**
 
