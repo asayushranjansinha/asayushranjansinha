@@ -1,30 +1,59 @@
 <h1 align="center">Hi 👋, I'm Ayush Ranjan Sinha</h1>
-<h3 align="center">A Software Developer from India, with passion for building innovative and user-friendly products.I have experience in a variety of programming languages and technologies, and I am always looking for new challenges.</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • TypeScript</h3>
+
+<p align="center">B.Tech CASE '24 (8.80 CGPA) • Building production-ready applications with modern web technologies</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayushranjansinha&label=Profile%20views&color=0e75b6&style=flat" alt="asayushranjansinha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/asayushranjan" target="blank"><img src="https://img.shields.io/twitter/follow/asayushranjan?logo=twitter&style=for-the-badge" alt="asayushranjan" /></a> </p>
+## Currently Working On
 
-- 🔭 I’m currently working on **Threads Clone**
+**N8N - Workflow Automation Platform** (Next.js 15, React 19, TypeScript, tRPC, Prisma, PostgreSQL)  
+Building a production-ready workflow automation platform with visual drag-and-drop editor, AI-powered workflows (OpenAI, Anthropic, Gemini), distributed execution using Inngest, and full Stripe integration.
 
-- 🌱 I’m currently learning **Typescript**
+**Learning Management System** - Production-grade mobile app (React Native + Expo) at Rahul Solutions  
+Final development phase before App Store/Play Store launch. Complete LMS with video lectures, assessments, role-based dashboards, Redis caching, BullMQ workers, AWS S3 integration, and DLT-verified SMS authentication.
 
-- 💬 Ask me about **React, Typescript, JavaScript, MERN stack**
+## Experience
 
-- 📫 How to reach me **asayushranjansinha@gmail.com**
+**Full Stack Developer** @ Rahul Solutions *(Jan 2024 - Present)*  
+- Built production LMS using Expo (React Native), TypeScript, Node.js, PostgreSQL, Redis, BullMQ
+- Implemented Redis caching + BullMQ workers for optimized performance and background processing
+- Integrated AWS S3 for secure file uploads with role-based access control
+- Developed DLT-verified SMS OTP authentication and access-code-based assessment system
+- Architected complete system from database schema to mobile UI components
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YatbhtvthZ4Z5a0dmiuPBY7dYRgsYtc2/view?usp=sharing](https://drive.google.com/file/d/1YatbhtvthZ4Z5a0dmiuPBY7dYRgsYtc2/view?usp=sharing)
+**Frontend Developer Intern** @ Rahul Solutions *(Jun 2023 - Dec 2023)*  
+- Developed user interfaces using React.js with 20% improvement in page load times
+- Integrated RESTful APIs and implemented component-based architecture
+- Collaborated with design team on responsive UI components
 
-- ⚡ Fun fact **I still listen to old songs.**
+## Education
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asayushranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asayushranjan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asayushranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asayushranjan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asayushranjansinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asayushranjansinha" height="30" width="40" /></a>
-</p>
+**B.Tech in Computer Applications and System Engineering (CASE)**  
+Maulana Abul Kalam Azad University of Technology, West Bengal *(2020-2024)*  
+CGPA: 8.80/10.00
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asayushranjansinha&show_icons=true&locale=en&layout=compact" alt="asayushranjansinha" /></p>
+**Frontend:** React, Next.js, React Native (Expo), TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express, tRPC, Prisma  
+**Database:** PostgreSQL, MongoDB, Redis  
+**Tools & Services:** BullMQ, AWS S3, Inngest, Vercel AI SDK, Stripe, Docker, Git
+
+**Problem Solving:** 500+ problems solved on LeetCode with strong DSA fundamentals
+
+## Featured Projects
+
+**[N8N Workflow Automation](https://github.com/asayushranjansinha/n8n)** - Enterprise-grade workflow platform with visual editor, AI integrations, and distributed execution
+
+**[Neuron Productivity](https://github.com/asayushranjansinha/neuron)** - Notion-inspired app with real-time sync using Convex, unlimited nested notes, and file uploads
+
+**[Portfolio Website](https://ayushranjansinha.vercel.app)** - Personal portfolio with MDX blog, dynamic OG images, and SEO optimization
+
+## Let's Connect
+
+📧 **Email:** asayushranjansinha@gmail.com  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1YatbhtvthZ4Z5a0dmiuPBY7dYRgsYtc2/view?usp=sharing)  
+💼 **LinkedIn:** [linkedin.com/in/asayushranjan](https://linkedin.com/in/asayushranjan)  
+🐦 **Twitter:** [@asayushranjan](https://twitter.com/asayushranjan)  
+💻 **LeetCode:** [asayushranjansinha](https://www.leetcode.com/asayushranjansinha)
