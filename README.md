@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Ranjan Sinha</h1>
 <h3 align="center">Full Stack Developer | React • Next.js • TypeScript</h3>
 
-<p align="center">B.Tech CASE '24 (8.80 CGPA) • Building production-ready applications with modern web technologies</p>
+<p align="center">B.Tech CSE '24 (8.80 CGPA) • Building production-ready applications with modern web technologies</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayushranjansinha&label=Profile%20views&color=0e75b6&style=flat" alt="asayushranjansinha" /> </p>
 
@@ -29,7 +29,7 @@ Final development phase before App Store/Play Store launch. Complete LMS with vi
 
 ## Education
 
-**B.Tech in Computer Applications and System Engineering (CASE)**  
+**B.Tech in Computer Science Engineering (CSE)**  
 Maulana Abul Kalam Azad University of Technology, West Bengal *(2020-2024)*  
 CGPA: 8.80/10.00
 
