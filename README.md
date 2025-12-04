@@ -29,7 +29,7 @@ Final development phase before App Store/Play Store launch. Complete LMS with vi
 
 ## Education
 
-**B.Tech in Computer Science Engineering (CSE)**  
+**B.Tech in Computer Science & Engineering (CSE)**  
 Maulana Abul Kalam Azad University of Technology, West Bengal *(2020-2024)*  
 CGPA: 8.80/10.00
 
