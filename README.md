@@ -53,7 +53,7 @@ CGPA: 8.80/10.00
 ## Let's Connect
 
 📧 **Email:** asayushranjansinha@gmail.com  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1YatbhtvthZ4Z5a0dmiuPBY7dYRgsYtc2/view?usp=sharing)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/18UgVlyEYMKxDBqzy3bdQRTjPwl7-yqtE/view?usp=sharinggh)  
 💼 **LinkedIn:** [linkedin.com/in/asayushranjan](https://linkedin.com/in/asayushranjan)  
 🐦 **Twitter:** [@asayushranjan](https://twitter.com/asayushranjan)  
 💻 **LeetCode:** [asayushranjansinha](https://www.leetcode.com/asayushranjansinha)
