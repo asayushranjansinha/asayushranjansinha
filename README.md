@@ -35,7 +35,7 @@ CGPA: 8.80/10.00
 
 ## 🚀 Featured Projects
 
-**[API Testing Platform](https://github.com/asayushranjansinha/api-testing-platform)** | Next.js, TypeScript, PostgreSQL  
+**[API Testing Platform](https://github.com/asayushranjansinha/postman)** | Next.js, TypeScript, PostgreSQL  
 Production-grade API testing platform supporting 7 HTTP methods with Monaco editor, multi-provider OAuth, and 3-tier organizational structure
 - Integrated Google Gemini AI to generate request bodies and analyze responses, reducing user input time by 60%
 - Developed secure proxy to resolve CORS issues with 3-level RBAC system (Owner/Admin/Member)
