@@ -1,59 +1,83 @@
 <h1 align="center">Hi 👋, I'm Ayush Ranjan Sinha</h1>
 <h3 align="center">Full Stack Developer | React • Next.js • TypeScript</h3>
-
 <p align="center">B.Tech CSE '24 (8.80 CGPA) • Building production-ready applications with modern web technologies</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayushranjansinha&label=Profile%20views&color=0e75b6&style=flat" alt="asayushranjansinha" /> </p>
 
-## Currently Working On
+## 💼 Current Role
 
-**N8N - Workflow Automation Platform** (Next.js 15, React 19, TypeScript, tRPC, Prisma, PostgreSQL)  
-Building a production-ready workflow automation platform with visual drag-and-drop editor, AI-powered workflows (OpenAI, Anthropic, Gemini), distributed execution using Inngest, and full Stripe integration.
+**Software Engineer** @ ETIOT | In Work Global *(Jan 2026 - Present)*  
+Working on a large-scale Gas Pipeline Operations and Maintenance platform for a major Indian PSU
+- Building web application with Vite and React to handle massive industrial datasets for 1000+ critical assets
+- Implementing complex GIS mapping with ESRI Maps for high-precision real-time asset tracking
+- Optimized rendering of heavy data tables and map layers, reducing initial load time by 40%
+- Designed modular React components for maintenance logs and safety alerts, cutting manual reporting time by 30%
 
-**Learning Management System** - Production-grade mobile app (React Native + Expo) at Rahul Solutions  
-Final development phase before App Store/Play Store launch. Complete LMS with video lectures, assessments, role-based dashboards, Redis caching, BullMQ workers, AWS S3 integration, and DLT-verified SMS authentication.
+## 👨‍💻 Experience
 
-## Experience
-
-**Full Stack Developer** @ Rahul Solutions *(Jan 2024 - Present)*  
-- Built production LMS using Expo (React Native), TypeScript, Node.js, PostgreSQL, Redis, BullMQ
-- Implemented Redis caching + BullMQ workers for optimized performance and background processing
-- Integrated AWS S3 for secure file uploads with role-based access control
-- Developed DLT-verified SMS OTP authentication and access-code-based assessment system
-- Architected complete system from database schema to mobile UI components
+**Full Stack Developer** @ Rahul Solutions *(Jan 2024 - Dec 2025)*  
+- Built production-grade Learning Management System using Expo (React Native), TypeScript, Node.js, PostgreSQL
+- Set up high-performance caching with Redis and BullMQ to process 5,000+ daily background tasks
+- Handled complete DevOps lifecycle on AWS EC2 and S3, maintaining 99.9% uptime
+- Created all-in-one School Management portal with attendance, scheduling, study material distribution, and result downloads
 
 **Frontend Developer Intern** @ Rahul Solutions *(Jun 2023 - Dec 2023)*  
-- Developed user interfaces using React.js with 20% improvement in page load times
-- Integrated RESTful APIs and implemented component-based architecture
-- Collaborated with design team on responsive UI components
+- Developed responsive React.js interfaces, increasing user engagement by 25% for small business clients
+- Integrated 20+ RESTful APIs for seamless data flow and real-time dashboard updates
+- Refactored legacy CSS into modern component-based system, reducing feature shipping time by 30%
+- Built reusable UI component libraries, accelerating development for subsequent projects
 
-## Education
+## 🎓 Education
 
-**B.Tech in Computer Science & Engineering (CSE)**  
-Maulana Abul Kalam Azad University of Technology, West Bengal *(2020-2024)*  
+**B.Tech in Computer Science & Engineering**  
+Maulana Abul Kalam Azad University of Technology, West Bengal *(Aug 2020 - June 2024)*  
 CGPA: 8.80/10.00
 
-## Tech Stack
+## 🚀 Featured Projects
 
-**Frontend:** React, Next.js, React Native (Expo), TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express, tRPC, Prisma  
-**Database:** PostgreSQL, MongoDB, Redis  
-**Tools & Services:** BullMQ, AWS S3, Inngest, Vercel AI SDK, Stripe, Docker, Git
+**[API Testing Platform](https://github.com/asayushranjansinha/api-testing-platform)** | Next.js, TypeScript, PostgreSQL  
+Production-grade API testing platform supporting 7 HTTP methods with Monaco editor, multi-provider OAuth, and 3-tier organizational structure
+- Integrated Google Gemini AI to generate request bodies and analyze responses, reducing user input time by 60%
+- Developed secure proxy to resolve CORS issues with 3-level RBAC system (Owner/Admin/Member)
+- Monaco Editor integration for Postman-like environment
+
+**[Workflow Automation Tool](https://github.com/asayushranjansinha/n8n)** | Next.js, TypeScript, Vercel AI SDK  
+Production-grade visual automation platform with drag-and-drop workflow editor
+- Enables complex automations including HTTP triggers, webhooks, conditionals, and AI model integrations (OpenAI, Claude, Gemini)
+- Architected type-safe full-stack application using tRPC, Prisma ORM, and Inngest for distributed job processing
+- Stripe payment integration with AI-powered workflows featuring streaming responses
+
+**[Personal Portfolio](https://ayushranjansinha.vercel.app)** | Next.js 16, TypeScript, GSAP, Tailwind 4  
+High-performance personal portfolio with sub-second page loads
+- Smooth scrolling experience by syncing GSAP animations with Lenis
+- Strict TypeScript setup with config-driven approach for modular, reusable components
+- MDX blog with dynamic OG images and SEO optimization
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:** JavaScript (ES6+), TypeScript, C++, React.js, Next.js, React Native (Expo), Node.js, Express.js
+
+**State Management:** Redux Toolkit (RTK), Zustand
+
+**Databases:** PostgreSQL, MongoDB, Redis
+
+**Backend & Architecture:** Express.js, tRPC, Prisma, Microservices Architecture, RESTful APIs, WebSockets
+
+**DevOps & Cloud:** AWS (S3, EC2), Docker, CI/CD (GitHub Actions/Vercel Pipelines)
+
+**Tools & Integrations:** BullMQ, Inngest, OAuth, JWT, Payment Gateways (Stripe, Razorpay), ShadCN-UI, GSAP, Framer Motion, Google Gemini AI, Vercel AI SDK, Git, GitHub
 
 **Problem Solving:** 500+ problems solved on LeetCode with strong DSA fundamentals
 
-## Featured Projects
-
-**[N8N Workflow Automation](https://github.com/asayushranjansinha/n8n)** - Enterprise-grade workflow platform with visual editor, AI integrations, and distributed execution
-
-**[Neuron Productivity](https://github.com/asayushranjansinha/neuron)** - Notion-inspired app with real-time sync using Convex, unlimited nested notes, and file uploads
-
-**[Portfolio Website](https://ayushranjansinha.vercel.app)** - Personal portfolio with MDX blog, dynamic OG images, and SEO optimization
-
-## Let's Connect
+## 📫 Let's Connect
 
 📧 **Email:** asayushranjansinha@gmail.com  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/18UgVlyEYMKxDBqzy3bdQRTjPwl7-yqtE/view?usp=sharinggh)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/18UgVlyEYMKxDBqzy3bdQRTjPwl7-yqtE/view?usp=sharing)  
 💼 **LinkedIn:** [linkedin.com/in/asayushranjan](https://linkedin.com/in/asayushranjan)  
+🌐 **Portfolio:** [ayushranjansinha.vercel.app](https://ayushranjansinha.vercel.app)  
 🐦 **Twitter:** [@asayushranjan](https://twitter.com/asayushranjan)  
 💻 **LeetCode:** [asayushranjansinha](https://www.leetcode.com/asayushranjansinha)
+
+---
+
+<p align="center">⚡ Always learning, always building ⚡</p>
